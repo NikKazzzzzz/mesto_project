@@ -9,5 +9,3 @@ module.exports = {
     cssnano({ preset: 'default' })
   ]
 };
-
-// P.S ВЗЯТО ИЗ СПРИНТА - занятие "Минификация CSS и добавление префиксов"

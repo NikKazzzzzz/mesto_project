@@ -13,4 +13,3 @@ const presets = [
   
 module.exports = { presets };
   
-// P.S ВЗЯТО ИЗ СПРИНТА - занятие "Транспиляция JS: ставим Babel"
